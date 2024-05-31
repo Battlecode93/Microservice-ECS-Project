@@ -115,4 +115,3 @@ The architecture of this project involves the following steps:
 
 This project demonstrates how to deploy a web application on AWS using a combination of EC2, Docker, ECR, ECS Fargate, and an Application Load Balancer. By following the steps outlined above, you can achieve a scalable and highly available deployment for your application.
 
-Feel free to modify and extend this template to suit your specific project requirements.

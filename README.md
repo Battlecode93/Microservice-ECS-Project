@@ -7,16 +7,6 @@
 
 This repository provides a comprehensive guide to deploying an application using Amazon ECS with EC2, Docker, ECR, Fargate, and a Load Balancer. This deployment setup ensures high availability, scalability, and efficient management of your application.
 
-## Table of Contents
-- [Architecture Overview](#architecture-overview)
-- [Setup and Deployment](#setup-and-deployment)
-  - [Launch EC2 Instance and Install Docker](#launch-ec2-instance-and-install-docker)
-  - [Build and Run Docker Image](#build-and-run-docker-image)
-  - [Create and Push Image to ECR](#create-and-push-image-to-ecr)
-  - [Setup Load Balancer](#setup-load-balancer)
-  - [Create ECS Task Definition and Service](#create-ecs-task-definition-and-service)
-- [Accessing the Application](#accessing-the-application)
-- [Conclusion](#conclusion)
 
 ## Architecture Overview
 This project leverages the following AWS services:
